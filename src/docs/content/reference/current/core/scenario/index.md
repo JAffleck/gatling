@@ -274,7 +274,7 @@ Similar to `randomSwitch`, but with a fallback if no switch is selected (i.e.: r
 
 #### `uniformRandomSwitch`
 
-Similar to `randomSwitch`, but with an uniform distribution amongst chains.
+Similar to `randomSwitch`, but with a uniform distribution amongst chains.
 
 {{< include-code "uniformRandomSwitch" java kt scala >}}
 
